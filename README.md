@@ -1,8 +1,7 @@
 ## Olá! Eu sou o João Vitor
 
-- 🔭 Estou cursando Desenvolvimento de Sistemas
-- 📫 Contato: jv845484.dev@gmail.com
-- 😄 Pronomes: Ele/Dele
+ 🔭 Estou cursando Desenvolvimento de Sistemas
+ 😄 Pronomes: Ele/Dele
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitor1-dev&show_icons=true&theme=transparent)
 
